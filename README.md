@@ -1,7 +1,8 @@
 # .github
 English is widely used as the language of communication and documentation in the software development industry. This means that developers often need to read, write, and communicate effectively in English in order to work with colleagues, understand technical documents, and contribute to open-source projects. Additionally, a good understanding of English can help developers stay current with the latest developments and innovations in the field, as much of the relevant information is published in English.
 Book a free trial here: https://englishonline.training/welcome/book-a-lesson/
-Learn about the me: https://englishonline.training/welcome/about-me/
+Learn about me: https://englishonline.training/welcome/about-me/
+
 read more here https://englishonline.training/welcome/blog-posts/how-can-an-ai-like-chatgpt-in-combination-with-a-human-online-teacher-help-someone-to-master-business-english-skills/
 here are some additional examples where software developers may need advanced English skills:
 
